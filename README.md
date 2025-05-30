@@ -46,7 +46,7 @@ obi-fesa/
 ### ✅ 1. Clone o repositório (apenas na primeira vez)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/obi205-fesa.git
+git clone https://github.com/Leticia-Emily-Moraes/obi-fesa.git
 cd obi205-fesa
 ```
 
