@@ -66,7 +66,7 @@ git pull origin main
 Crie uma branch com um nome descritivo. Exemplo para exercício da fase 1 do nível 1 de 2024:
 
 ```bash
-git checkout -b feat/2024-nivel1-fase1
+git checkout -b 2024-nivel1-fase1
 ```
 
 ---
