@@ -91,7 +91,7 @@ git commit -m "feat: adiciona exercício 1 da fase 1 - nível 1 (2024)"
 
 ### 📤 6. Envie a branch para o GitHub
 ```bash
-git push origin feat/2024-nivel1-fase1-ex1
+git push origin 2024-nivel1-fase1
 ```
 
 ---
