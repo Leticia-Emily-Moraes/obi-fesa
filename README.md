@@ -47,7 +47,7 @@ obi-fesa/
 
 ```bash
 git clone https://github.com/Leticia-Emily-Moraes/obi-fesa.git
-cd obi205-fesa
+cd obi-fesa
 ```
 
 ---
