@@ -1,6 +1,8 @@
 #include "bits/stdc++.h"
 using namespace std;
 
+//Uso de programação dinamica
+
 int main()
 {
     int L, C, M, N;
