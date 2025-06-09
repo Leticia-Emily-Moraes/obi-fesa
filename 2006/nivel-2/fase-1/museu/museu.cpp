@@ -37,7 +37,7 @@ int main()
             for (int k = 0; k < s; k++)
             {
                 if(grafo[i][j] > grafo[i][k] + grafo[k][j]){
-                    grafo[i][j] = grafo[i][k] = grafo[k][j];
+                    grafo[i][j] = grafo[i][k] + grafo[k][j];
                 }
             }
         }
